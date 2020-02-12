@@ -14,6 +14,7 @@
 - [Modern Event-Driven Application Development using TIBCO and AsyncAPI](https://medium.com/tecxperiments/modern-event-driven-application-development-using-tibco-and-asyncapi-3400897a6cec) - Feb 2, 2020.
 - [AsyncAPI: 2020s Industry Standard For Messaging APIs?](https://nordicapis.com/asyncapi-2020s-industry-standard-for-messaging-apis/) - Jan 28, 2020.
 - [AsyncAPI vs OpenAPI: What is The Difference?](https://nordicapis.com/asyncapi-vs-openapi-whats-the-difference/) - Sep 3, 2019.
+- [Replicating the Success of REST in Event-Driven Architecture](https://solace.com/blog/rest-event-driven-architecture/) - Apr 3, 2019.
 - [7 Protocols Good For Documenting With AsyncAPI](https://nordicapis.com/7-protocols-good-for-documenting-with-asyncapi/) - Jan 17, 2019.
 
 ## Videos
