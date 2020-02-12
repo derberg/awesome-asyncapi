@@ -10,7 +10,7 @@
 
 ## Articles
 
-- [AMPLIFY Streams adopts AsyncAPI](https://devblog.axway.com/integration/asyncapi/) - 11 Feb, 2020
+- [AMPLIFY Streams adopts AsyncAPI](https://devblog.axway.com/integration/asyncapi/) - 11 Feb, 2020.
 - [Modern Event-Driven Application Development using TIBCO and AsyncAPI](https://medium.com/tecxperiments/modern-event-driven-application-development-using-tibco-and-asyncapi-3400897a6cec) - Feb 2, 2020.
 - [AsyncAPI: 2020s Industry Standard For Messaging APIs?](https://nordicapis.com/asyncapi-2020s-industry-standard-for-messaging-apis/) - Jan 28, 2020.
 - [AsyncAPI vs OpenAPI: What is The Difference?](https://nordicapis.com/asyncapi-vs-openapi-whats-the-difference/) - Sep 3, 2019.
