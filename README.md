@@ -24,7 +24,11 @@
 
 ## Tools
 
-- [Tools from AsyncAPI website](https://www.asyncapi.com/docs/tooling/)
+- [Tools from AsyncAPI website](https://www.asyncapi.com/docs/tooling/).
+- [asyncapi-codegen](https://github.com/pearmaster/asyncapi-codegen) Code Generator written in Python to generate C++ code.
+- [openapi-filter](https://github.com/Mermade/openapi-filter) Library written in JavaScript that filters out internals from the spec.
+- [asyncapi-toolkit](https://github.com/SOM-Research/asyncapi-toolkit) Code Generator for Java dependent on Eclipse.
+- [go-asyncapi](https://github.com/swaggest/go-asyncapi) Generate AsyncAPI spec from Go code.
 
 ## Contribute
 
