@@ -33,6 +33,8 @@
 - [openapi-lint](https://marketplace.visualstudio.com/items?itemName=mermade.openapi-lint) VSCode plugin that also supports linting of AsyncAPI. 
 - [asyncapi-toolkit](https://github.com/SOM-Research/asyncapi-toolkit) Code Generator for Java dependent on Eclipse.
 - [go-asyncapi](https://github.com/swaggest/go-asyncapi) Generate AsyncAPI spec from Go code.
+- [asyncapi-github-action](https://github.com/WaleedAshraf/asyncapi-github-action) GitHub Action for validation of AsyncAPI documents
+- [BOATS](https://www.npmjs.com/package/boats) tool that enabled support for AsyncAPI. BOATS compiles your single AsyncAPI file from multiple components and with the help of the template engine Nunjucks plus a few extra helpers
 
 ## Contribute
 
