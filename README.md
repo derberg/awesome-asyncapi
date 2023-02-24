@@ -29,6 +29,7 @@
 
 - [Tools from AsyncAPI website](https://www.asyncapi.com/docs/tooling/).
 - [asyncapi-codegen](https://github.com/pearmaster/asyncapi-codegen) Code Generator written in Python to generate C++ code.
+- [asyncapi-codegen](https://github.com/lerenn/asyncapi-codegen) Code Generator written in Golang to generate Golang code.
 - [openapi-filter](https://github.com/Mermade/openapi-filter) Library written in JavaScript that filters out internals from the spec.
 - [openapi-lint](https://marketplace.visualstudio.com/items?itemName=mermade.openapi-lint) VSCode plugin that also supports linting of AsyncAPI. 
 - [asyncapi-toolkit](https://github.com/SOM-Research/asyncapi-toolkit) Code Generator for Java dependent on Eclipse.
